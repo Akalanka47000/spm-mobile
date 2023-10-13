@@ -38,6 +38,7 @@ dependencies:
   enhanced_http: 4.1.0
   flutter_tts:
   qr_code_scanner: ^1.0.1
+  url_launcher: ^6.1.14
 
 
 dev_dependencies:
